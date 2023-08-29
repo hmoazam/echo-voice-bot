@@ -1,0 +1,4 @@
+  "MicrosoftAppType": "",
+  "MicrosoftAppId": "a0df2b7e-906a-470f-a756-dd5294728af3",
+  "MicrosoftAppPassword": "uXV8Q~.K6mjnAC0Oq0ltqJlhWr1zgMV3Wia7Uc3y",
+  "MicrosoftAppTenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"

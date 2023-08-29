@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "TtePRLq1DkISfgx5lXgh8K44zqR7DCbVIKfanMakiKk=",
+  "Source": "EchoBot",
+  "BasePath": "_content/EchoBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EchoBot\\wwwroot",
+      "Source": "EchoBot",
+      "ContentRoot": "C:\\Users\\hannamoazam\\OneDrive - Microsoft\\Documents\\Chatbots\\EchoVoiceBot\\EchoBotDotnet\\wwwroot\\",
+      "BasePath": "_content/EchoBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\hannamoazam\\OneDrive - Microsoft\\Documents\\Chatbots\\EchoVoiceBot\\EchoBotDotnet\\wwwroot\\default.html",
+      "SourceId": "EchoBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hannamoazam\\OneDrive - Microsoft\\Documents\\Chatbots\\EchoVoiceBot\\EchoBotDotnet\\wwwroot\\",
+      "BasePath": "_content/EchoBot",
+      "RelativePath": "default.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.html"
+    }
+  ]
+}

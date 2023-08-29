@@ -1,0 +1,8 @@
+{
+  "$kind": "Microsoft.LuisRecognizer",
+  "id": "LUIS_EchoBotComposer",
+  "applicationId": "=settings.luis.EchoBotComposer_en_us_lu.appId",
+  "version": "=settings.luis.EchoBotComposer_en_us_lu.version",
+  "endpoint": "=settings.luis.endpoint",
+  "endpointKey": "=settings.luis.endpointKey"
+}
